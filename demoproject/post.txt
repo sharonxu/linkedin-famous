@@ -1,0 +1,16 @@
+🧬 How Our Iterative Retrieval-Augmented Generation (RAG) Approach Elevated Our Biology AI Tutor
+
+In our latest update, we redesigned the AI tutor’s architecture to deliver more accurate and curriculum-aligned explanations. Here’s how it works:
+
+1. **Contextual Retrieval**  
+   When a student asks a question like “Why do plants need light energy?”, the system first embeds the query using a specialized model (e.g., Bio-LinkBERT) to search a dense vector store of historical interactions and verified explanations. This step ensures we gather high-quality, relevant context from previous successful responses.
+
+2. **Curriculum Alignment**  
+   Next, the system cross-references the retrieved content with a structured curriculum map. This step guarantees that the explanation aligns with core biological concepts and learning objectives—tying in everything from basic cell functions to more complex ideas like photosynthesis.
+
+3. **Generation & Verification**  
+   With solid context in hand, our language model synthesizes a clear, engaging explanation for the student. Internal verification processes then check that the response fits both the student’s current query and the broader educational framework, ensuring consistency and pedagogical soundness.
+
+By using this iterative RAG approach—combining robust retrieval with curriculum-based refinement—we’ve seen marked improvements in student engagement and comprehension. This method bridges the gap between data-driven insights and solid educational principles, making learning more personalized and effective.
+
+#AI #RAG #EdTech #BiologyTutoring #MachineLearning #Innovation
